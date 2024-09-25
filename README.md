@@ -1,6 +1,22 @@
-# situation-9
+# situation-9 - taking the emotional temperature of a public space
+For our purposes, a situation is a rule-based event intended to provoke a creative experience where the outcome is unknown and hopefully surprising.
 
-here will be a clear yet witty, comprehensive yet terse description of the project. perhaps even some code.
+## The Invitation
+
+We invite members of the public to express an emotion in wordless sound. This emotion may be:
+- how they currrently feel.
+- prompted by a story card.
+- chosen from a menu of emotions based on [Plutchik's wheel of emotions](https://en.wikipedia.org/wiki/Robert_Plutchik#Plutchik's_wheel_of_emotions)
+
+We record (with explicit consent of the participant) audio of:
+- The emotion expressed alone.
+- The emotion in conversation with an emotion expressed by one of the situation facilitators chosen from the menu:
+  - at random.
+  - by the particpant.
+  - based on a rule (opposite, adjacent, larger, smaller).
+
+## Post-processing
+We will use software (perhaps [Max](https://cycling74.com/products/max)) to process the sounds to generate an interactive way to 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
